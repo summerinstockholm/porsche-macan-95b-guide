@@ -1,11 +1,11 @@
-# References — Porsche Macan 95B guide
+# Источники — Porsche Macan 95B
 
 **Версия гайда:** 1.0  
 **Дата рыночного среза:** 13 сентября 2026
 
 Этот файл фиксирует основные источники, использованные при подготовке `README.md`.
 
-## Porsche — официальные материалы
+## Porsche — официальные документы
 
 ### Технические характеристики
 
@@ -15,7 +15,7 @@
 - Porsche Newsroom — 2020 Macan Technical Data  
   https://download.newsroom.porsche.com/dam/jcr%3A345230e8-84c0-47c8-9c9f-864353db1751/2020_Macan_Technical_Data.pdf
 
-### Регламент обслуживания
+### Обслуживание
 
 - Porsche — Macan/S/GTS/Turbo Maintenance Checklist (2015-on)  
   https://files.porsche.com/filestore/download/usa/none/porscheservice-macan-maintenance-2015/default/bd91c5c2-263a-11e9-80c4-005056bbdc38/Macan-2015-on-Maintenance.pdf
@@ -25,14 +25,23 @@
 
 ### Моторные масла
 
-- Porsche approved engine oils overview — A40 / C20 / C30 / C40.  
-  Always use the latest list applicable to VIN/model year rather than treating an old PDF as permanent.
+- Porsche — Allocation of Approved Engine Oils Until MY 2020 (06/22)  
+  https://static.nhtsa.gov/odi/tsbs/2022/MC-10208683-0001.pdf
 
-## Модельный ряд / коды двигателей
+- Porsche — Allocation of Approved Engine Oils MY 2021 (03/24)  
+  https://static.nhtsa.gov/odi/tsbs/2024/MC-10252607-0001.pdf
 
-- Drom — Macan 2014: РФ без 2.0 в ранней официальной гамме; Япония 2.0 237 CNC с 04.2014:
-  https://www.drom.ru/catalog/porsche/macan/2014/
-- Drom — Macan 2016: РФ 2.0 252; Япония показывает переход 237 CNC → 252 CYP:
+- Porsche — Overview of Approved Porsche C20 Engine Oils (01/25)  
+  https://static.nhtsa.gov/odi/tsbs/2025/MC-11015150-0001.pdf
+
+- Porsche — Overview of Approved Porsche C30 Engine Oils (06/26)  
+  https://static.nhtsa.gov/odi/tsbs/2026/MC-11030890-0001.pdf
+
+> Allocation-документы определяют требуемое семейство допуска для конкретного модельного года. Перечни конкретных масел обновляются, поэтому перед обслуживанием нужно сверять актуальный Porsche approved-oil bulletin и VIN.
+
+## Модельный ряд и коды двигателей
+
+- Drom — Porsche Macan 2016 catalogue, Russian and other-market configurations  
   https://www.drom.ru/catalog/porsche/macan/2016/
 
 - Drom — Porsche Macan 2017 catalogue, Russian and other-market configurations  
@@ -43,6 +52,9 @@
 
 - Drom — Macan engine-capacity / engine-code catalogue  
   https://www.drom.ru/catalog/porsche/macan/specs/engine_capacity/
+
+- Drom — CNC engine  
+  https://www.drom.ru/catalog/porsche/engine/cnc/
 
 - Drom — CYP engine  
   https://www.drom.ru/catalog/porsche/engine/cyp/
@@ -59,9 +71,9 @@
 - Drom — DGR engine  
   https://www.drom.ru/catalog/porsche/engine/dgr/
 
-## Надёжность / технические проблемы
+## Надёжность и известные технические проблемы
 
-### 95B.1 V6 bore scoring
+### 95B.1 V6 — bore scoring
 
 - Pcarwise — Porsche Macan 2014–2018 Buyers Guide  
   https://www.pcarwise.com/local-help/used-porsche-buyers-guide/porsche-macan-buying-guides/porsche-macan-buyers-guide-14-thru-18/
@@ -69,9 +81,12 @@
 - Pcarwise — Porsche Macan common problems  
   https://www.pcarwise.com/local-help/porsche-common-problems/porsche-macan-common-problems/
 
-The guide treats bore scoring on early Porsche 3.0/3.6 V6 engines as a real PPI item. Community case reports are used to understand symptoms and failure modes, not to invent a population failure percentage.
+Задиры ранних Porsche V6 3.0/3.6 рассматриваются в справочнике как реальный пункт PPI. Кейсы владельцев используются для понимания симптомов и сценариев отказа, но не для выведения процента отказов по всему парку.
 
-### Болты крышки ГРМ / течь масла
+### Болты крышки цепного привода / течь масла
+
+- Porsche — SY 210/21: Loose/Broken Screws and Oil Leaks in the Area of the Chain Housing Cover and/or Camshaft Phaser, Macan MY2014–2018  
+  https://static.nhtsa.gov/odi/tsbs/2022/MC-10209760-0001.pdf
 
 - Rennlist — Cautionary Tale of Oil Leak (timing cover)  
   https://rennlist.com/forums/macan/1085919-cautionary-tale-of-oil-leak-timing-cover.html
@@ -79,10 +94,7 @@ The guide treats bore scoring on early Porsche 3.0/3.6 V6 engines as a real PPI 
 - Rennlist — Timing cover bolts failure  
   https://rennlist.com/forums/macan/1370625-timing-cover-bolts-failure.html
 
-- Porsche Service Bulletin 210/21 — MY2014–2018 Macan: loose/broken screws and oil leaks at chain housing cover/camshaft phaser; официальный документ также задаёт замену проблемного крепежа на стальной:
-  https://static.nhtsa.gov/odi/tsbs/2022/MC-10209760-0001.pdf
-
-### Раздатка / transfer case
+### Раздаточная коробка / PTM
 
 - Rennlist — Extended warranty on transfer case  
   https://rennlist.com/forums/macan/1213360-extended-warranty-on-transfer-case.html
@@ -90,7 +102,7 @@ The guide treats bore scoring on early Porsche 3.0/3.6 V6 engines as a real PPI 
 - Rennlist — updated transfer case  
   https://rennlist.com/forums/macan/1152306-updated-transfer-case.html
 
-The 7-year/unlimited-mile extension discussed there is a historical overseas-market fact and **must not be interpreted as current RF warranty coverage**.
+Упоминаемое продление гарантии до 7 лет без ограничения пробега — исторический факт для отдельных зарубежных рынков и **не означает наличия такой гарантии в РФ сегодня**.
 
 ### 95B.2 EA839
 
@@ -100,9 +112,9 @@ The 7-year/unlimited-mile extension discussed there is a historical overseas-mar
 - Rennlist — Macan 2019+ cooling/water-pump and EA839 discussions  
   https://rennlist.com/forums/macan/
 
-EA839 uses a different cylinder architecture from the early Porsche V6. The guide therefore distinguishes classic early-V6 bore scoring from later piston/cylinder damage cases.
+EA839 имеет другую архитектуру цилиндров относительно ранних Porsche V6. Поэтому справочник разделяет классический bore scoring ранних V6 и отдельные более поздние случаи повреждения поршней/цилиндров.
 
-## Жидкости / заправочные объёмы
+## Жидкости и заправочные объёмы
 
 - FCP Euro — Macan 95B.1 platform page (oil / PDK / differential service data)  
   https://www.fcpeuro.com/Porsche-parts/macan-95b1
@@ -110,9 +122,9 @@ EA839 uses a different cylinder architecture from the early Porsche V6. The guid
 - Blauparts — Porsche Macan engine oil types and fill capacities  
   https://www.blauparts.com/blog/porsche-macan-engine-oil-types.html
 
-All capacities are working service references, not a substitute for VIN-specific workshop information.
+Все приведённые объёмы — рабочие сервисные ориентиры, а не замена документации по конкретному VIN.
 
-## Рынок РФ — 13 сентября 2026
+## Российский рынок автомобилей с пробегом — 13 сентября 2026
 
 Основные площадки:
 
@@ -144,13 +156,13 @@ All capacities are working service references, not a substitute for VIN-specific
 
 ### Методика рынка
 
-- анализировать рынок целиком, без сегментации «дилер/частник»;
-- дедуплицировать одну и ту же машину между площадками;
-- исключать битые, проекты, машины не на ходу и нерепрезентативные объявления «под заказ»;
-- исключать искусственные кредитные/трейд-ин цены либо использовать явно указанную обычную цену;
-- считать отображаемые значения ценами предложения, а не подтверждёнными ценами сделок;
-- для редких Turbo/GTS/Turbo Performance явно учитывать меньшую статистическую устойчивость диапазонов.
+- рынок анализируется целиком, без искусственного разделения на дилеров и частников;
+- одна и та же машина между площадками по возможности дедуплицируется;
+- исключаются битые проекты, автомобили не на ходу и нерепрезентативные объявления «под заказ»;
+- искусственные кредитные/трейд-ин цены исключаются либо заменяются явно указанной обычной ценой продажи;
+- цены в объявлениях рассматриваются как **цены предложения**, а не подтверждённые цены закрытых сделок;
+- для редких GTS/Turbo/Turbo Performance статистическая устойчивость диапазонов ниже.
 
 ## Изображения
 
-См. `assets/images/SOURCES.md`.
+Источники и лицензии изображений: `assets/images/SOURCES.md`.
