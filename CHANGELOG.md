@@ -1,37 +1,38 @@
 # Changelog
 
-All notable changes to `porsche-macan-95b-guide` are documented here.
+Все заметные изменения `porsche-macan-95b-guide` фиксируются здесь.
+
+## [Unreleased]
+
+### Уточнено
+- для 95B.1 разведены **официальный для РФ Macan 2.0 252 CYP (с 2016)** и ранний импортный **2.0 237 CNC (2014–2016, прежде всего Япония)**;
+- оглавление дополнено ссылками на `REFERENCES.md` и `CHANGELOG.md`;
+- в `REFERENCES.md` добавлен официальный Porsche TSB по болтам/течи крышки ГРМ и прямая ссылка на список одобренных масел;
+- язык служебных файлов приведён к русскому стилю остальных справочников.
 
 ## [1.0] — 2026-09-13
 
-Initial public release.
+Первый публичный релиз.
 
-### Added
+### Добавлено
+- охват Porsche Macan 95B.1 (2014–2018) и 95B.2 (2018–2021);
+- таблицы российских модификаций и семейств двигателей;
+- различия EA888 / EA897 / ранних Porsche V6 / EA839;
+- разбор bore scoring ранних Porsche V6;
+- оценки ремонтопригодности для всех основных моторных групп;
+- разделы PDK, PTM и полного привода;
+- разбор болтов/течи крышки ГРМ;
+- регламент обслуживания: заводские и практические интервалы возрастной машины;
+- допуски, вязкости и ориентиры объёмов моторных масел;
+- остальные жидкости и топливо;
+- полный PPI и короткий полевой PPI;
+- шкала стоимости ремонтов РФ 2026;
+- рынок РФ на 13.09.2026 и ценовые зоны;
+- `REFERENCES.md` и учёт источников изображений;
+- реальные CC0-фотографии 95B.1 и 95B.2 с воспроизводимым скриптом загрузки.
 
-- Porsche Macan 95B.1 2014–2018 guide;
-- Porsche Macan 95B.2 2018–2021 guide;
-- Russian-market engine/version tables;
-- early Porsche V6 bore-scoring guidance;
-- EA888 / EA897 / EA839 distinctions;
-- repairability ratings for every engine group;
-- transfer-case / PTM section;
-- PDK section;
-- timing-cover-bolt/oil-leak section;
-- maintenance schedule: factory vs practical age-car intervals;
-- engine-oil approvals, viscosities and capacities;
-- other fluids;
-- fuel guidance;
-- full PPI and compact phone PPI;
-- repair-cost scale for Russia, 2026;
-- Russian used-car market price bands as of 13 September 2026;
-- references and image-source tracking;
-- real CC0 photos for 95B.1 and 95B.2 via reproducible download script.
-
-### Scope
-
-This repository intentionally covers only:
-
+### Охват
 - Macan 95B.1 — 2014–2018;
 - Macan 95B.2 — 2018–2021.
 
-The 2021+ second facelift and electric Macan are outside project scope.
+Рестайлинг 2021+ и электрический Macan в проект не входят.
